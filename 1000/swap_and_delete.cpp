@@ -1,3 +1,5 @@
+/*Minimizing costs mean to make as many swaps as possible. So for that there needs to equal ones and zeros. Swap until then then rest difference is the result*/
+
 #include <bits/stdc++.h>
 using namespace std;
 
